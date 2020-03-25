@@ -6,7 +6,7 @@ Curso RocketSeat
 API criada em NodeJS.
 Para rodar, executar:
 
-`npm install`
-`npm start`
+###`npm install`
+###`npm start`
 
 O sistema rodará na porta 3333.
